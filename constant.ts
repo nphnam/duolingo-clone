@@ -1,6 +1,7 @@
 export const POINTS_TO_REFILL = 10;
 export const quests = [
     {
+        
         title: "Earn 20 XP",
         value: 20,
     },
@@ -17,6 +18,7 @@ export const quests = [
         value: 100,
     },
     {
+
         title: "Earn 500 XP",
         value: 500,
     },
@@ -24,5 +26,6 @@ export const quests = [
         title: "Earn 1000 XP",
         value: 1000,
     }
+
 
 ]
